@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Big Al",
+        "commonName": "Aloe Vera",
+        "latinName": "Aloe Vera",
+        "microEnv": "Gene's Office",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "alive": true,
+        "category": "Succulents",
+        "imageName": "bigal"
+    },{
+        "name": "Ucho",
+        "commonName": "Elephant Ear",
+        "latinName": "Alocasia Amazonica",
+        "microEnv": "SE Living Room",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "alive": true,
+        "category": "Succulents",
+        "imageName": "ucho"
+    },{
+        "name": "Patricia",
+        "commonName": "Ponytail Palm",
+        "latinName": "Beaucarnea recurvata",
+        "microEnv": "SE Living Room",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "alive": true,
+        "category": "Indoor Palms",
+        "imageName": "patty"
+    },{
+        "name": "Różyczko",
+        "commonName": "Calandiva",
+        "latinName": "Kalanchoe blossfeldiana",
+        "microEnv": "SLR sill",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "alive": true,
+        "category": "Succulents",
+        "imageName": "rose"
+    },{
+        "name": "El Nino",
+        "commonName": "Sago Palm",
+        "latinName": "Cycas revoluta",
+        "microEnv": "SE Living Room",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "alive": true,
+        "category": "Indoor Palms",
+        "imageName": "elnino"
+    },{
+        "name": "Babcia",
+        "commonName": "Wandering Jew",
+        "latinName": "Tradescantia zebrina",
+        "microEnv": "Office",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "alive": true,
+        "category": "Succulents",
+        "imageName": "babcia"
+    }
+]
